@@ -166,6 +166,7 @@ list-petmastergive: "Animaux donnés à un autre Joueur"
 list-petmasterreceive: "Animaux reçus d'un autre Joueur"
 list-smelting: "Objets Fondus"
 list-commands: "Autres succès"
+list-advancements-completed: "Succès Accomplis"
 
 # Related to /aach toggle.
 toggle-displayed: "Vous serez notifié quand d'autres joueurs recevront des succès."
